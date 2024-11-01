@@ -1,0 +1,13 @@
+{
+  "patient_id": 1,
+  "transcricao_completa": "vamos lá testando 321 123 quero saber realmente se estava funcionando esse sistema vamos lá 321 valendo",
+  "quantidade_segmentos": 1,
+  "duracao_segundos": 30,
+  "queixa_principal": "",
+  "historia_atual": "",
+  "exame_fisico": "",
+  "diagnostico": "",
+  "prescricoes": "",
+  "observacoes": "",
+  "resumo_clinico": "{\"erro\": \"Não foi possível gerar o resumo da consulta\", \"queixa_principal\": \"\", \"historia_atual\": \"\", \"exame_fisico\": \"\", \"diagnostico\": \"\", \"prescricoes\": \"\", \"observacoes\": \"\"}"
+}

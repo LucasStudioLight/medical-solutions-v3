@@ -1,0 +1,13 @@
+{
+  "patient_id": 1,
+  "transcricao_completa": "eu não tô me sentindo muito bem tô com a garganta doendo já tem duas semanas sensação de febre e tô me sentindo bem disposto ultimamente bom vejo que esse é um quadro de possível virose mas acho interessante nós investigarmos vamos investigar através da de sangue exames de urina vamos investigar se é um caso de covid-19 e ao resultado você me devolve Ok para podemos iniciar o tratamento eficaz mas vamos continuar com tomando Dipirona de uma grama para controlar a febre a dor no corpo e Qualquer coisa manda mensagem obrigado",
+  "quantidade_segmentos": 3,
+  "duracao_segundos": 90,
+  "queixa_principal": "",
+  "historia_atual": "",
+  "exame_fisico": "",
+  "diagnostico": "",
+  "prescricoes": "",
+  "observacoes": "",
+  "resumo_clinico": "{\"erro\": \"Não foi possível gerar o resumo da consulta\", \"queixa_principal\": \"\", \"historia_atual\": \"\", \"exame_fisico\": \"\", \"diagnostico\": \"\", \"prescricoes\": \"\", \"observacoes\": \"\"}"
+}

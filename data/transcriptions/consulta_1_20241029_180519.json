@@ -1,0 +1,13 @@
+{
+  "patient_id": 1,
+  "transcricao_completa": "agora eu tô fazendo um teste Eu Acho interessante a gente pegar algum texto para ler né Então nesse momento a gente vai ler aqui eu tô desenvolvendo um processador Serra de imagens estão Contando um pouco de dificuldade tô com sensação de febre tosse Então vamos iniciar e vamos ver o que que dá né se ele gera o resumo agora por favor né",
+  "quantidade_segmentos": 1,
+  "duracao_segundos": 30,
+  "queixa_principal": "",
+  "historia_atual": "",
+  "exame_fisico": "",
+  "diagnostico": "",
+  "prescricoes": "",
+  "observacoes": "",
+  "resumo_clinico": "{\"erro\": \"Não foi possível gerar o resumo da consulta\", \"queixa_principal\": \"\", \"historia_atual\": \"\", \"exame_fisico\": \"\", \"diagnostico\": \"\", \"prescricoes\": \"\", \"observacoes\": \"\"}"
+}

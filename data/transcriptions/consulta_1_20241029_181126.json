@@ -1,0 +1,13 @@
+{
+  "patient_id": 1,
+  "transcricao_completa": "testando som Vamos lá estou em consulta agora com muita dor de cabeça mal-estar médico Dr só dá vontade de ficar deitada na última visita eu tava que eu vim até aqui na consultório eu tava sentindo falta de ar o senhor me passou uns remédios só que depois eu comecei a ficar com dor de cabeça labirintite uma vez já uns Então vamos pedir um exame de sangue para você para analisar alguns pediram que você fique em repouso vou te dar uma atestado médico aqui de 3 dias até saírem resultados dos exames e com isso nós vamos identificar se você está com quadro de covid 19 qual quadro você se encontra no momento retorne 15 dias",
+  "quantidade_segmentos": 2,
+  "duracao_segundos": 60,
+  "queixa_principal": "A paciente apresentou queixa de dor de cabeça, mal-estar e falta de ar, que se agravaram após o uso de remédios prescritos em visita anterior.",
+  "historia_atual": "A paciente informou que sentiu falta de ar e dor de cabeça após a última visita ao consultório, e que apresentou labirintite no passado. Além disso, apresentou dor de cabeça intensa e mal-estar que não melhorou com o uso de medicamentos.",
+  "exame_fisico": "",
+  "diagnostico": "",
+  "prescricoes": "- Ordem para realização de exame de sangue para análise de algumas das principais causas da SRA e COVID-19.\n- Recomendação de repouso em casa por 3 dias, após o que será expedido um atestado médico.\n- Prescrição de medicamentos ainda não especificados.",
+  "observacoes": "A paciente foi orientada a retornar ao consultório em 15 dias para avaliação dos resultados dos exames e ajuste do tratamento, caso necessário.",
+  "resumo_clinico": "{\"queixa_principal\": \"A paciente apresentou queixa de dor de cabeça, mal-estar e falta de ar, que se agravaram após o uso de remédios prescritos em visita anterior.\", \"historia_atual\": \"A paciente informou que sentiu falta de ar e dor de cabeça após a última visita ao consultório, e que apresentou labirintite no passado. Além disso, apresentou dor de cabeça intensa e mal-estar que não melhorou com o uso de medicamentos.\", \"exame_fisico\": \"\", \"diagnostico\": \"\", \"prescricoes\": \"- Ordem para realização de exame de sangue para análise de algumas das principais causas da SRA e COVID-19.\\n- Recomendação de repouso em casa por 3 dias, após o que será expedido um atestado médico.\\n- Prescrição de medicamentos ainda não especificados.\", \"observacoes\": \"A paciente foi orientada a retornar ao consultório em 15 dias para avaliação dos resultados dos exames e ajuste do tratamento, caso necessário.\"}"
+}

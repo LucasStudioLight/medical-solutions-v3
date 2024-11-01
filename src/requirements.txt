@@ -1,0 +1,11 @@
+streamlit
+pandas
+PyPDF2
+requests
+python-dotenv
+sounddevice
+numpy
+matplotlib
+pyaudio
+wave
+SpeechRecognition
