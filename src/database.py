@@ -12,7 +12,16 @@ load_dotenv()
 Base = declarative_base()
 
 # Import models after Base is defined
-from .models import Patient, Consultation, Exam
+try:
+    from models import Patient, Consultation, Exam
+except ImportError:
+    try:
+        from src.models import Patient, Consultation, Exam
+    except ImportError:
+        st.error("⚠️ Erro ao importar modelos do banco de dados")
+        Patient = None
+        Consultation = None
+        Exam = None
 
 def init_database():
     """Initialize database connection"""
