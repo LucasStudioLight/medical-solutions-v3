@@ -416,7 +416,9 @@ def show_patient_data():
             if st.button('Iniciar Gravação'):
                 st.session_state.recording = True
                 st.session_state.recorder = MedicalRecorder(st.session_state.current_patient.id)
-                st.session_state.recorder.start_recording()
+                if not st.session_state.recorder.start_recording():
+                    st.session_state.recording = False
+                    st.session_state.recorder = None
                 st.rerun()
         else:
             st.warning('Gravação em andamento...')
@@ -579,8 +581,10 @@ def main():
     else:
         if st.session_state.view == 'search':
             show_search_screen()
-        else:
+        elif st.session_state.current_patient:
             show_patient_data()
+        else:
+            show_search_screen()
 
 if __name__ == '__main__':
     main()
